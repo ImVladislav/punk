@@ -11,7 +11,7 @@ body {
    justify-content: center;
    align-items: center;
    overflow: hidden; /* убираем скролл */
-   background: url('bg.jpg') no-repeat;
+   background: url('bg.png') no-repeat;
    background-size: contain;
 }
 
